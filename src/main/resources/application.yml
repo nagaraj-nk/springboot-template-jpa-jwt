@@ -21,4 +21,4 @@ spring:
     serialization:
       indent_output: true
 
-
+jwt.secret: 'secret'
